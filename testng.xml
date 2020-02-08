@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="前程贷" parallel="false">
+    <test name="用户模块">
+        <classes>
+            <class name="cases.Register"/>
+            <class name="cases.Login"/>
+            <class name="cases.Recharge"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
