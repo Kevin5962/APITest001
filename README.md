@@ -1,2 +1,2 @@
-# XFKTest1
- 这是xfk的第一个小项目
+# APITest001
+这是xfk第一个基于Java-testng的APITest小项目
